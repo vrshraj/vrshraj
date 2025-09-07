@@ -1,6 +1,4 @@
-## Hi there 👋 
-
-<!--<h1 align="center">Hi 👋, I'm Varsh Raj</h1>
+<h1 align="center">Hi 👋, I'm Varsh Raj</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -34,15 +32,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <!-- Light Mode -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VarshRaj&show_icons=true&theme=default#gh-light-mode-only" alt="GitHub Stats Light" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VarshRaj&theme=default#gh-light-mode-only" alt="GitHub Streak Light" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshRaj&layout=compact&theme=default#gh-light-mode-only" alt="Top Langs Light" />
-  
-  <!-- Dark Mode -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VarshRaj&show_icons=true&theme=radical#gh-dark-mode-only" alt="GitHub Stats Dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VarshRaj&theme=radical#gh-dark-mode-only" alt="GitHub Streak Dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshRaj&layout=compact&theme=radical#gh-dark-mode-only" alt="Top Langs Dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VarshRaj&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarshRaj&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshRaj&layout=compact&theme=radical" alt="langs" />
 </p>
 
 ---
@@ -61,17 +53,3 @@
   <a href="mailto:varshraj@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://varshraj.dev"><img src="https://skillicons.dev/icons?i=devto" /></a>
 </p>
-
-**vrshraj/vrshraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
