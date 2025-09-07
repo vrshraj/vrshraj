@@ -14,10 +14,10 @@
 ### 🛠️ Tech Stack
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,,python" />
   <br/>
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=firebase,aws,git,github,linux,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=firebase,aws,git,github,vscode,vercel" />
 </p>
 
 ---
