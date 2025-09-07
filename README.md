@@ -40,7 +40,7 @@
 ---
 
 ### 🚀 Featured Projects
-- [🔗 g8g Startup Website](https://github.com/VarshRaj/g8g) — AI-powered modern website  
+- [🔗 Startup Website](https://github.com/VarshRaj/g8g) — AI-powered modern website  
 - [🔗 Python Freelance Scripts](https://github.com/VarshRaj/python-freelance) — Automation tools for clients  
 - [🔗 Android App Experiments](https://github.com/VarshRaj/android-labs) — Learning Android development  
 
