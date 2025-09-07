@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varsh Raj</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer+in+Progress;💻+Python+Freelancer;☁️+Cloud+%26+AI+Enthusiast;📱+Android+App+Learner" alt="Typing Animation" />
-  </a>
-</p>
+<h3 align="center">🚀 Full-Stack Learner | AI & Cloud Enthusiast | Python Freelancer</h3>
 
 ---
 
@@ -53,3 +48,4 @@
   <a href="mailto:varshraj@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://varshraj.dev"><img src="https://skillicons.dev/icons?i=devto" /></a>
 </p>
+
