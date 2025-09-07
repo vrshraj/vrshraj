@@ -37,23 +37,7 @@
             <a href="https://www.instagram.com/pasha____bond/" target="_blank" style="text-decoration: none;">
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram">
             </a>
-        </p>
-    
-    
-<p align="center">
-  <!-- Inline SVG: paste the content between the svg tags exactly -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200" role="img" aria-label="Tic Tac Toe animation">
-    <style>
-      .board-line { stroke:#2b2b2b; stroke-width:6; stroke-linecap:round; }
-      .x { stroke:#e63946; stroke-width:10; stroke-linecap:round; stroke-linejoin:round; fill:none; }
-      .o { stroke:#457b9d; stroke-width:10; fill:none; stroke-linecap:round; }
-    </style>
-    <!-- ...rest of the SVG content (same as file) ... -->
-  </svg>
-</p>
-
-
-        
+        </p>      
   <h3>✨ Fun Facts</h3>
         <ul>
             <li>I love Hackathons, Chess and Cricket.</li>
