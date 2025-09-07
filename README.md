@@ -38,6 +38,12 @@
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram">
             </a>
         </p>
+    
+    
+  <p align="center">
+  <img src="./assets/tictactoe.svg" alt="Tic-Tac-Toe animation" />
+</p>
+
         
   <h3>✨ Fun Facts</h3>
         <ul>
