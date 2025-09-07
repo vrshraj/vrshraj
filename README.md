@@ -32,7 +32,7 @@
 ---
 
 ### 🚀 Featured Projects
-- [🔗 g8g Startup Website](https://github.com/YourUserName/g8g) — AI-powered modern website  
+- [🔗 Startup Website](https://github.com/YourUserName/g8g) — AI-powered modern website  
 - [🔗 Python Freelancing Scripts](https://github.com/YourUserName/python-freelance) — Automation tools for clients  
 
 ---
