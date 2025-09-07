@@ -1,13 +1,13 @@
 [![Alt text](kwork_PavloBondarenko_12.jpg)](https://pavlobondarenko.net)
 
-<h1 align="center">Hi, I'm Pavlo Bondarenko! 👋 </h1>
+<h1 align="center">Hi, I'm Varsh Raj! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pavlo_bondarenko_visitor_badge_simple&left_color=royalblue&right_color=black"  />
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,cpp,cmake,docker,git,github,js,linux,postgres,py,dotnet,unreal,pycharm" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=aws,docker,git,github,js,postgres,py,dotnet,pycharm" alt="Skills and tools"/>
   </a>
 </p>
 
@@ -41,21 +41,18 @@
         
   <h3>✨ Fun Facts</h3>
         <ul>
-            <li>I love Hackathons, Swimming and Tennis.</li>
-            <li>I’m on a journey to build a big house in Alaska!</li>
-            <li>I enjoy creating content for my YouTube channel, where I share coding tutorials and project walkthroughs.</li>
-            <li>In my free time, I explore the beauty of nature and capture it through my photography on Instagram.</li>
+            <li>I love Hackathons, Chess and Cricket.</li>
         </ul>
         
   <h3>🧑‍💻 About Me</h3>
         <p>
-            I'm a passionate software developer with a strong background in cloud computing, game development, and full-stack web development. 
+            I'm a passionate software developer with a strong background in Machine Learning and web development(Backend). 
             I have a keen interest in solving complex problems and building scalable solutions. When I'm not coding, you can find me engaged 
             in physical activities like swimming and judo, or planning my next adventure. 
         </p>
         <p>
             My journey in tech has led me to work with various cutting-edge technologies and collaborate with amazing teams across different 
-            projects. I’m always eager to learn new things and share my knowledge with the community through my YouTube.
+            projects. I’m always eager to learn new things and share my knowledge with the community.
         </p>
     </div>
 </div>
