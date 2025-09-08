@@ -16,10 +16,6 @@
 
 ---
 
-# 🕹️ Varsh's Game Profile
-
-
-
 ## 🏆 Stats
 
 **Level:** 5
