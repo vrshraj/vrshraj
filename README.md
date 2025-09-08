@@ -20,10 +20,9 @@
 
 ---
 
-### 🎮 Fun Animation: Tic Tac Toe
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/tictactoe.gif" alt="Tic Tac Toe Animation" width="400"/>
-</p>
+### 🎮 Fun Animation: 
+![Dino Game](./dino.svg)
+
 
 ---
 
