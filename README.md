@@ -1,4 +1,11 @@
-[![Alt text](img4banner.png)](https://github.com/vrshraj)
+### 🦖 Play Dino Game
+
+<div align="center">
+  <a href="https://your-username.github.io/dino-game/" target="_blank">
+    <img src="https://img.shields.io/badge/Click%20to%20Play-Dino%20Game-brightgreen?style=for-the-badge&logo=googlechrome" />
+  </a>
+</div>
+
 
 <h1 align="center">Hi, I'm Varsh Raj! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=varshraj_profile&left_color=royalblue&right_color=black"  />
