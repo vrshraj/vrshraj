@@ -16,18 +16,6 @@
 
 ---
 
-## 🏆 Stats
-
-**Level:** 5
-
-![Character](https://github.com/vrshraj/vrshraj/blob/9e9335f51156304806dad63fa19976bba9f912e4/the%20legend%20of%20zelda%20nintendo%20Sticker.gif)  
-**XP:** ![XP  ](https://img.shields.io/badge/XP-80/100-blue?style=for-the-badge&logo=git)  
-
-**Health:** ![Health](https://img.shields.io/badge/❤️-80/100-red?style=for-the-badge)
-
-**Energy:** ![Energy](https://img.shields.io/badge/⚡-80/100-yellow?style=for-the-badge)
-
-
 
 
 
@@ -38,15 +26,23 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
 
+
   <!-- Left Column: Metrics -->
   <div style="flex: 1; max-width: 45%;">
       <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://github.com/yourusername/yourusername/blob/main/github-metrics.svg">
   </div>
+  
 
   <!-- Right Column -->
   <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
+  
+  
 
-  <h3>🌐 Let's Connect and Grow Together!</h3>
+  <h3>🌐 Let's Connect and Grow Together! </h3>
+
+  ![Character](https://github.com/vrshraj/vrshraj/blob/9e9335f51156304806dad63fa19976bba9f912e4/the%20legend%20of%20zelda%20nintendo%20Sticker.gif)  
+
+  
   <p>
       <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
           <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">
