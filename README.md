@@ -1,13 +1,40 @@
-<h1 align="center">Hi 👋, I'm Varsh Raj</h1>
-<h3 align="center">Freelance Backend Developer | Exploring Machine Learning & Scalable Systems</h3>
+# Hi there 👋, I'm Varsh Raj  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vrshraj&label=Profile%20views&color=0e75b6&style=flat" alt="vrshraj" /> </p>
+💻 **Freelance Backend Developer** | 🤖 **Learning Machine Learning**  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+## 🧑‍💻 About Me
+- 🔹 Freelance backend web developer (Python, Node.js, SQL, APIs)  
+- 🔹 Currently exploring **Machine Learning & AI**  
+- 🔹 Passionate about **scalable systems** & **clean code**  
+- 🔹 Open to freelance & collaboration opportunities  
+
+---
+
+## 🚀 Tech Stack
+**Languages & Tools:**  
+`Python` • `Node.js` • `SQL` • `Firebase` • `AWS` • `Git/GitHub`  
+
+Currently Learning → `Machine Learning` • `Data Science`  
+
+---
+
+## 🎮 Fun Animation  
+Here’s a little Tic Tac Toe game animation just for fun:  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VarshRaj/VarshRaj/output/github-contribution-grid-snake.svg" alt="Tic Tac Toe Animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vrshraj&show_icons=true&locale=en" alt="vrshraj" /></p>
+## 📫 Connect With Me
+- 🌐 [Portfolio Website](#) *(coming soon)*  
+- 💼 [LinkedIn](#)  
+- 🐦 [Twitter](#)  
+- 📧 varshraj@example.com  
+
+---
+
+⭐ *“Backend Dev by profession, ML enthusiast by passion.”*  
