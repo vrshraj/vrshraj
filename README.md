@@ -29,7 +29,8 @@
 
   <!-- Left Column: Metrics -->
   <div style="flex: 1; max-width: 45%;">
-      <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://github.com/yourusername/yourusername/blob/main/github-metrics.svg">
+      <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://raw.githubusercontent.com/vrshraj/vrshraj/main/github-metrics.svg
+">
   </div>
   
 
