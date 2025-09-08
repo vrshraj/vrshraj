@@ -1,8 +1,4 @@
-### 🦖 Play Dino Game
 
-<div align="center">
-  <a href=" https://vrshraj.github.io/dino-game/" target="_blank">
-    <img src="https://img.shields.io/badge/Click%20to%20Play-Dino%20Game-brightgreen?style=for-the-badge&logo=googlechrome" />
   </a>
 </div>
 
@@ -19,8 +15,12 @@
 </p>
 
 ---
+### 🦖 Play Dino Game
 
-### 🎮 Fun Animation: 
+<div align="center">
+  <a href=" https://vrshraj.github.io/dino-game/" target="_blank">
+    <img src="https://img.shields.io/badge/Click%20to%20Play-Dino%20Game-brightgreen?style=for-the-badge&logo=googlechrome" />
+    
 ![Dino Game](./dino.svg)
 
 
