@@ -25,9 +25,11 @@
 **Level:** 5
 
 ![Character](https://github.com/vrshraj/vrshraj/blob/9e9335f51156304806dad63fa19976bba9f912e4/the%20legend%20of%20zelda%20nintendo%20Sticker.gif)  
-**XP:** ![XP](https://img.shields.io/badge/XP-80/100-blue?style=for-the-badge&logo=git)  
-**Health:** ![Health](https://img.shields.io/badge/❤️-80/100-red?style=for-the-badge)  
-**Energy:** ![Energy](https://img.shields.io/badge/⚡-50/100-yellow?style=for-the-badge)
+**XP:** ![XP  ](https://img.shields.io/badge/XP-80/100-blue?style=for-the-badge&logo=git)  
+
+**Health:** ![Health](https://img.shields.io/badge/❤️-80/100-red?style=for-the-badge)
+
+**Energy:** ![Energy](https://img.shields.io/badge/⚡-80/100-yellow?style=for-the-badge)
 
 
 
