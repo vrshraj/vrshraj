@@ -1,4 +1,4 @@
-[![Alt text](banner.jpg)](https://github.com/vrshraj)
+[![Alt text](banner.png)](https://github.com/vrshraj)
 
 <h1 align="center">Hi, I'm Varsh Raj! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=varshraj_profile&left_color=royalblue&right_color=black"  />
