@@ -1,0 +1,23 @@
+<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="black"/>
+  <text x="50%" y="20" text-anchor="middle" fill="white" font-size="16">🦖 Dino Run</text>
+  
+  <g>
+    <text id="dino" x="10" y="70" font-size="32">🦖</text>
+    <text id="cactus" x="380" y="70" font-size="32">🌵</text>
+  </g>
+
+  <animateTransform
+    xlink:href="#dino"
+    attributeName="transform"
+    type="translate"
+    from="0 0" to="300 0"
+    dur="4s" repeatCount="indefinite"/>
+  
+  <animateTransform
+    xlink:href="#cactus"
+    attributeName="transform"
+    type="translate"
+    from="0 0" to="-300 0"
+    dur="4s" repeatCount="indefinite"/>
+</svg>
