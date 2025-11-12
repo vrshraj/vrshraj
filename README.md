@@ -45,7 +45,7 @@
         
   <h3>✨ Fun Facts</h3>
   <ul>
-      <li>Freelancing as a Backend Developer.</li>
+      <li>Freelancing as an AI Agent Developer.</li>
       <li>Currently learning Machine Learning & AI.</li>
       <li>I love coding, problem-solving, and building scalable apps.</li>
       <li>Always curious about new tech & startup culture 🚀.</li>
