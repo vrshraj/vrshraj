@@ -53,7 +53,7 @@
         
   <h3>🧑‍💻 About Me</h3>
   <p>
-      I'm a AI Ageny developer and ML learner, passionate about creating efficient APIs, 
+      I'm an AI Ageny developer and ML learner, passionate about creating efficient APIs, 
       working with databases, and exploring AI applications. 
       As a freelancer, I focus on helping startups and individuals build robust and scalable digital products. 
       Always eager to collaborate, learn, and contribute to open-source.
