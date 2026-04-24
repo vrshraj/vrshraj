@@ -79,11 +79,4 @@ Frontend Engineer with hands-on experience shipping production-grade web apps in
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vrshraj&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrshraj&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vrshraj&color=blue&style=flat-square" alt="Profile views" />
-</p>
